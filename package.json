@@ -1,0 +1,21 @@
+{
+  "name": "all-sorts-of-fun",
+  "version": "1.0.0",
+  "description": "The purpose of this lab is to create a single resource API that utilizes ExpressJS for handling requests with middleware for error handling.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianbixby/all-sorts-of-fun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianbixby/all-sorts-of-fun/issues"
+  },
+  "homepage": "https://github.com/brianbixby/all-sorts-of-fun#readme"
+}
